@@ -10,10 +10,10 @@ CS Senior @ University of North Texas | Graduating May 2027 | Building toward Ba
 Go, Docker, Cloud Deployment (AWS), and working though distributed-systems fundamentals. 
 
 **Tech & Tools**
-## Languges: Python | Java | C# | C++ | SQL | JavaScript 
-## Backend/Data : FASTAPI | REST APIs | SQL schema design| JWT auth | GarphQL | Gemini API 
-## Web: HTML5 | CSS3 | PHP 
-## Foundations: Linux | Git | Data Structures & Algorithms 
+# Languges: Python | Java | C# | C++ | SQL | JavaScript 
+# Backend/Data : FASTAPI | REST APIs | SQL schema design| JWT auth | GarphQL | Gemini API 
+# Web: HTML5 | CSS3 | PHP 
+# Foundations: Linux | Git | Data Structures & Algorithms 
 
 **Featured Projects**
 - [Self-Tracker] (https://github.com/diyabasnet743/shelf-tracker.git) - Reading tracker web app  Python | FastAPI | SQL| REST API | JWT auth | Full CRUD | AI powered book recommendation
