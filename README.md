@@ -1,7 +1,6 @@
 ## Hi there 👋 I'm Diya 
 
-CS Senior @ University of North Texas | Graduating May 2027 
-Building toward Backed & Dsitributed Systems - APIs, data, and systems that run reliably 
+CS Senior @ University of North Texas | Graduating May 2027 | Building toward Backed & Dsitributed Systems - APIs, data, and systems that run reliably 
 
 **Recent Work**
 * A reading tracker web app with a REST API + AI recommendations
